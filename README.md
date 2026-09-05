@@ -1,38 +1,38 @@
-# =ƒÉì 100 Days of Python
+# ğŸ 100 Days of Python
 
-Welcome to my **100 Days of Python** journey! =ƒÜÇ
+Welcome to my **100 Days of Python** journey! ğŸš€
 
 This repository contains the projects, challenges, and exercises I complete while learning Python through the **100 Days of Code: The Complete Python Pro Bootcamp** course.
 
-## =ƒÄ» Goal
+## ğŸ¯ Goal
 
 My goal is to build a strong foundation in Python by consistently practicing, completing projects, and learning new programming concepts every day.
 
-## =ƒôÜ Progress
+## ğŸ“š Progress
 
 | Day     | Project             | Status |
 | ------- | ------------------- | ------ |
-| Day 01  | Band Name Generator | G£à      |
-| Day 02  | Tip Calculator      | G¼£      |
-| Day 03  | Treasure Island     | G¼£      |
-| Day 04  | Rock Paper Scissors | G¼£      |
-| Day 05  | Password Generator  | G¼£      |
-| Day 06  | Reeborg's World     | G¼£      |
-| Day 07  | Hangman             | G¼£      |
-| Day 08  | Caesar Cipher       | G¼£      |
-| Day 09  | Secret Auction      | G¼£      |
-| Day 10  | Calculator          | G¼£      |
-| ...     | ...                 | G¼£      |
-| Day 100 | Final Project       | G¼£      |
+| Day 01  | Band Name Generator | âœ…      |
+| Day 02  | Tip Calculator      | â¬œ      |
+| Day 03  | Treasure Island     | â¬œ      |
+| Day 04  | Rock Paper Scissors | â¬œ      |
+| Day 05  | Password Generator  | â¬œ      |
+| Day 06  | Reeborg's World     | â¬œ      |
+| Day 07  | Hangman             | â¬œ      |
+| Day 08  | Caesar Cipher       | â¬œ      |
+| Day 09  | Secret Auction      | â¬œ      |
+| Day 10  | Calculator          | â¬œ      |
+| ...     | ...                 | â¬œ      |
+| Day 100 | Final Project       | â¬œ      |
 
-## =ƒ¢án+Å Technologies & Tools
+## ğŸ› ï¸ Technologies & Tools
 
-* =ƒÉì Python
-* =ƒÆ+ PyCharm
-* =ƒöº Git
-* =ƒîÉ GitHub
+* ğŸ Python
+* ğŸ’» PyCharm
+* ğŸ”§ Git
+* ğŸŒ GitHub
 
-## =ƒôû What I'm Learning
+## ğŸ“– What I'm Learning
 
 Throughout the 100 days, I will be working with concepts such as:
 
@@ -50,25 +50,27 @@ Throughout the 100 days, I will be working with concepts such as:
 * Data analysis
 * And more
 
-## =ƒôé Repository Structure
+## ğŸ“‚ Repository Structure
+
+Each day's project is organized into its own folder:
 
 ```text
 100-Days-of-Python/
-Göé
-Gö£GöÇGöÇ Day_01_Band_Name_Generator/
-Gö£GöÇGöÇ Day_02_Tip_Calculator/
-Gö£GöÇGöÇ Day_03_Treasure_Island/
-Gö£GöÇGöÇ Day_04_Rock_Paper_Scissors/
-Gö£GöÇGöÇ ...
-GööGöÇGöÇ Day_100_Final_Project/
+â”‚
+â”œâ”€â”€ Day_01_Band_Name_Generator/
+â”œâ”€â”€ Day_02_Tip_Calculator/
+â”œâ”€â”€ Day_03_Treasure_Island/
+â”œâ”€â”€ Day_04_Rock_Paper_Scissors/
+â”œâ”€â”€ ...
+â””â”€â”€ Day_100_Final_Project/
 ```
 
-## =ƒÜÇ My Progress
+## ğŸš€ My Progress
 
 I will update this repository regularly as I complete each day and project.
 
-**Day 01/100 GÇö Let's begin! =ƒÉì=ƒöÑ**
+**Day 01/100 â€” Let's begin! ğŸğŸ”¥**
 
 ---
 
-G¡É This repository is a record of my learning journey, progress, and growth as a Python programmer.
+â­ This repository is a record of my learning journey, progress, and growth as a Python programmer.
