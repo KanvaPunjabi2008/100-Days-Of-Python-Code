@@ -147,7 +147,7 @@ Each day's project is organized into its own folder:
 
 I will update this repository regularly as I complete each day and project.
 
-**Day 01/100 — Completed! 🐍🔥**
+**Day 16/100 — Completed! 🐍🔥**
 
 **Next: Day 16 → Day 100 🚀**
 
